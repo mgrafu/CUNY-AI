@@ -1,0 +1,69 @@
+CLUSTER 4 RESULTS - SVM classifier
+Precision: 99.54
+Recall: 99.53
+F-Score: 99.53
+
+CLUSTER 0 RESULTS - SVM classifier
+Precision: 95.01
+Recall: 94.68
+F-Score: 94.85
+
+CLUSTER 1 RESULTS - SVM classifier
+Precision: 98.57
+Recall: 97.97
+F-Score: 98.27
+
+CLUSTER 5 RESULTS - SVM classifier
+Precision: 98.12
+Recall: 98.14
+F-Score: 98.13
+
+CLUSTER 3 RESULTS - SVM classifier
+Precision: 98.55
+Recall: 94.65
+F-Score: 96.48
+
+CLUSTER 2 RESULTS - SVM classifier
+Precision: 47.67
+Recall: 50.00
+F-Score: 48.81
+
+CLUSTER 4 RESULTS - MLP classifier
+Precision: 99.51
+Recall: 99.50
+F-Score: 99.50
+
+CLUSTER 0 RESULTS - MLP classifier
+Precision: 95.78
+Recall: 92.43
+F-Score: 94.03
+
+CLUSTER 1 RESULTS - MLP classifier
+Precision: 98.54
+Recall: 97.88
+F-Score: 98.20
+
+CLUSTER 5 RESULTS - MLP classifier
+Precision: 98.51
+Recall: 98.44
+F-Score: 98.47
+
+CLUSTER 3 RESULTS - MLP classifier
+Precision: 98.73
+Recall: 95.70
+F-Score: 97.15
+
+CLUSTER 2 RESULTS - MLP classifier
+Precision: 47.56
+Recall: 47.56
+F-Score: 47.56
+
+ALL CLUSTERS RESULTS - Alt. MLP classifier
+Precision: 95.51
+Recall: 95.51
+F-Score: 95.51
+
+CLUSTER 2 RESULTS - Alt. MLP classifier
+Precision: 47.67
+Recall: 50.00
+Accuracy: 48.81

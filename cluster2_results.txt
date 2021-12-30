@@ -1,0 +1,50 @@
+SVM - cluster 4 CLASSIFIER
+Precision: 49.20
+Recall: 44.66
+F-Score: 30.75
+
+MLP - cluster 4 CLASSIFIER
+Precision: 48.35
+Recall: 38.90
+F-Score: 30.47
+
+SVM - cluster 0 CLASSIFIER
+Precision: 49.04
+Recall: 45.57
+F-Score: 45.09
+
+MLP - cluster 0 CLASSIFIER
+Precision: 49.42
+Recall: 47.75
+F-Score: 46.80
+
+SVM - cluster 1 CLASSIFIER
+Precision: 52.00
+Recall: 53.40
+F-Score: 10.21
+
+MLP - cluster 1 CLASSIFIER
+Precision: 51.99
+Recall: 53.16
+F-Score: 9.76
+
+SVM - cluster 5 CLASSIFIER
+Precision: 52.74
+Recall: 66.50
+F-Score: 30.01
+
+MLP - cluster 5 CLASSIFIER
+Precision: 51.80
+Recall: 61.23
+F-Score: 30.50
+
+SVM - cluster 3 CLASSIFIER
+Precision: 49.02
+Recall: 44.60
+F-Score: 23.88
+
+MLP - cluster 3 CLASSIFIER
+Precision: 48.91
+Recall: 45.75
+F-Score: 17.28
+
